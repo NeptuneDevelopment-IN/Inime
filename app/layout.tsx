@@ -43,7 +43,7 @@ export default async function RootLayout({
                   this site. This website is only an user interface
                   presenting/linking various self-hosted files across the
                   internet by other third-party providers for easy access.
-                  <br />© thesonofdevilhunter {new Date().getFullYear()} | Also sidenote , Laksh is a dumbass
+                  <br />© thesonofdevilhunter {new Date().getFullYear()} | Ground floor Computer lab ka kachara kar rahe hai
                 </p>
               </div>
               <div className="flex-1 flex items-center justify-end">
